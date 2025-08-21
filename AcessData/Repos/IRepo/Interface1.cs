@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AcessData.Repos.IRepo
+namespace AccessData.Repos.IRepo
 {
-    internal interface Interface1
+    public interface Interface1
     {
     }
 }

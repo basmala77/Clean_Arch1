@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AcessData.Repos
+namespace AccessData.Repos
 {
-    internal class Class1
+    public class Class1
     {
     }
 }

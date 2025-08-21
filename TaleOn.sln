@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36401.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaleOn", "TaleOn\TaleOn.csproj", "{2D7CB212-64F1-4C6B-873B-9A37567C4093}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcessData", "AcessData\AcessData.csproj", "{9C58A697-723E-4A1A-AF30-95AB16493B4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessData", "AcessData\AccessData.csproj", "{9C58A697-723E-4A1A-AF30-95AB16493B4F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaleOn.Services", "TaleOn.Services\TaleOn.Services.csproj", "{6C33CE0B-C842-40C2-AADA-71A949CFEBA0}"
 EndProject

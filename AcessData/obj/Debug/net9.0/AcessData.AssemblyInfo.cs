@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AcessData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3402ea44494fc83d35c6a87b9e72eec630339ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d528ad8025e81f29bce9be4f43c0bfeb3eb53237")]
 [assembly: System.Reflection.AssemblyProductAttribute("AcessData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AcessData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

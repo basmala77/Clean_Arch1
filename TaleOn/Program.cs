@@ -1,11 +1,11 @@
+﻿using AccessData;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Scalar.AspNetCore;
 using System.Text;
-using Models.Mapper;
-using AcessData;
+
 namespace TaleOn
 {
     public class Program
@@ -15,8 +15,11 @@ namespace TaleOn
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
             builder.Services.AddControllers();
+
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
+
             builder.Services.AddHttpContextAccessor();
             builder.Services.AddCors();
 
@@ -25,29 +28,19 @@ namespace TaleOn
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             // Configure Identity
-            builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
+            builder.Services.AddIdentity<Models.Entities.ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
-
-            //builder.Services.AddAutoMapper(typeof(MappingConfig).Assembly);
             builder.Services.AddHttpClient();
 
-
-            // Add Services
-
-
-            // Add Repositories
-
-            //Security
             // Add OpenAPI with Bearer Authentication Support
             builder.Services.AddOpenApi("V1", options =>
             {
                 options.AddDocumentTransformer<BearerSecuritySchemeTransformer>();
             });
 
-
-            //Configure JWT Authentication insted of cookies
+            // JWT Auth
             var key = Encoding.ASCII.GetBytes(builder.Configuration["ApiSettings:Secret"]);
             builder.Services.AddAuthentication(options =>
             {
@@ -66,26 +59,28 @@ namespace TaleOn
                 };
             });
 
-
-            ////Register the global exception handler
-            //builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
-            //builder.Services.AddProblemDetails();
-
-            // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
+                app.UseSwagger();
+                app.UseSwaggerUI(c =>
+                {
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "TaleOn API V1");
+                    c.DocumentTitle = "TaleOn API Explorer";
+                });
+
                 app.MapOpenApi();
                 app.MapScalarApiReference();
             }
 
             app.UseHttpsRedirection();
+
             app.UseCors(c => c.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
-            app.UseAuthorization();
+
             app.UseAuthentication();
+            app.UseAuthorization();
+
             app.MapControllers();
 
             app.Run();
