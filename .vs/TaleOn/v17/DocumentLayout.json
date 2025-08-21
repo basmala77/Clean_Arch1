@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "D:\\ASP\\TaleOn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D7CB212-64F1-4C6B-873B-9A37567C4093}|TaleOn\\TaleOn.csproj|d:\\asp\\taleon\\taleon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2D7CB212-64F1-4C6B-873B-9A37567C4093}|TaleOn\\TaleOn.csproj|solutionrelative:taleon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9C58A697-723E-4A1A-AF30-95AB16493B4F}|AcessData\\AcessData.csproj|d:\\asp\\taleon\\acessdata\\repos\\irepo\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58A697-723E-4A1A-AF30-95AB16493B4F}|AcessData\\AcessData.csproj|solutionrelative:acessdata\\repos\\irepo\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C33CE0B-C842-40C2-AADA-71A949CFEBA0}|TaleOn.Services\\TaleOn.Services.csproj|d:\\asp\\taleon\\taleon.services\\controllerservice\\icontrollerservice\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C33CE0B-C842-40C2-AADA-71A949CFEBA0}|TaleOn.Services\\TaleOn.Services.csproj|solutionrelative:taleon.services\\controllerservice\\icontrollerservice\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C33CE0B-C842-40C2-AADA-71A949CFEBA0}|TaleOn.Services\\TaleOn.Services.csproj|d:\\asp\\taleon\\taleon.services\\controllerservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C33CE0B-C842-40C2-AADA-71A949CFEBA0}|TaleOn.Services\\TaleOn.Services.csproj|solutionrelative:taleon.services\\controllerservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D7CB212-64F1-4C6B-873B-9A37567C4093}|TaleOn\\TaleOn.csproj|d:\\asp\\taleon\\taleon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D7CB212-64F1-4C6B-873B-9A37567C4093}|TaleOn\\TaleOn.csproj|solutionrelative:taleon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58A697-723E-4A1A-AF30-95AB16493B4F}|AcessData\\AcessData.csproj|d:\\asp\\taleon\\acessdata\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58A697-723E-4A1A-AF30-95AB16493B4F}|AcessData\\AcessData.csproj|solutionrelative:acessdata\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63A6BF9-61C2-48D8-9F67-5C1FB674134A}|Models\\Models.csproj|d:\\asp\\taleon\\models\\entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63A6BF9-61C2-48D8-9F67-5C1FB674134A}|Models\\Models.csproj|solutionrelative:models\\entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63A6BF9-61C2-48D8-9F67-5C1FB674134A}|Models\\Models.csproj|d:\\asp\\taleon\\models\\dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63A6BF9-61C2-48D8-9F67-5C1FB674134A}|Models\\Models.csproj|solutionrelative:models\\dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58A697-723E-4A1A-AF30-95AB16493B4F}|AcessData\\AcessData.csproj|d:\\asp\\taleon\\acessdata\\configuration\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58A697-723E-4A1A-AF30-95AB16493B4F}|AcessData\\AcessData.csproj|solutionrelative:acessdata\\configuration\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58A697-723E-4A1A-AF30-95AB16493B4F}|AcessData\\AcessData.csproj|d:\\asp\\taleon\\acessdata\\middlewares\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58A697-723E-4A1A-AF30-95AB16493B4F}|AcessData\\AcessData.csproj|solutionrelative:acessdata\\middlewares\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C58A697-723E-4A1A-AF30-95AB16493B4F}|AcessData\\AcessData.csproj|d:\\asp\\taleon\\acessdata\\repos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C58A697-723E-4A1A-AF30-95AB16493B4F}|AcessData\\AcessData.csproj|solutionrelative:acessdata\\repos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CB212-64F1-4C6B-873B-9A37567C4093}|TaleOn\\TaleOn.csproj|d:\\asp\\taleon\\taleon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D7CB212-64F1-4C6B-873B-9A37567C4093}|TaleOn\\TaleOn.csproj|solutionrelative:taleon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D7CB212-64F1-4C6B-873B-9A37567C4093}|TaleOn\\TaleOn.csproj|d:\\asp\\taleon\\taleon\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,6 +79,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "D:\\ASP\\TaleOn\\AcessData\\Repos\\IRepo\\Interface1.cs",
+              "RelativeDocumentMoniker": "AcessData\\Repos\\IRepo\\Interface1.cs",
+              "ToolTip": "D:\\ASP\\TaleOn\\AcessData\\Repos\\IRepo\\Interface1.cs",
+              "RelativeToolTip": "AcessData\\Repos\\IRepo\\Interface1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:45:11.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "D:\\ASP\\TaleOn\\TaleOn.Services\\ControllerService\\IControllerService\\Interface1.cs",
+              "RelativeDocumentMoniker": "TaleOn.Services\\ControllerService\\IControllerService\\Interface1.cs",
+              "ToolTip": "D:\\ASP\\TaleOn\\TaleOn.Services\\ControllerService\\IControllerService\\Interface1.cs",
+              "RelativeToolTip": "TaleOn.Services\\ControllerService\\IControllerService\\Interface1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:45:00.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ASP\\TaleOn\\TaleOn.Services\\ControllerService\\Class1.cs",
+              "RelativeDocumentMoniker": "TaleOn.Services\\ControllerService\\Class1.cs",
+              "ToolTip": "D:\\ASP\\TaleOn\\TaleOn.Services\\ControllerService\\Class1.cs",
+              "RelativeToolTip": "TaleOn.Services\\ControllerService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:44:48.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ASP\\TaleOn\\AcessData\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AcessData\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ASP\\TaleOn\\AcessData\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AcessData\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:43:38.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ASP\\TaleOn\\Models\\Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Class1.cs",
+              "ToolTip": "D:\\ASP\\TaleOn\\Models\\Entities\\Class1.cs",
+              "RelativeToolTip": "Models\\Entities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:43:16.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ASP\\TaleOn\\Models\\DTOs\\Class1.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Class1.cs",
+              "ToolTip": "D:\\ASP\\TaleOn\\Models\\DTOs\\Class1.cs",
+              "RelativeToolTip": "Models\\DTOs\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:43:09.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ASP\\TaleOn\\AcessData\\Configuration\\Class1.cs",
+              "RelativeDocumentMoniker": "AcessData\\Configuration\\Class1.cs",
+              "ToolTip": "D:\\ASP\\TaleOn\\AcessData\\Configuration\\Class1.cs",
+              "RelativeToolTip": "AcessData\\Configuration\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:42:59.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ASP\\TaleOn\\AcessData\\Middlewares\\Class1.cs",
+              "RelativeDocumentMoniker": "AcessData\\Middlewares\\Class1.cs",
+              "ToolTip": "D:\\ASP\\TaleOn\\AcessData\\Middlewares\\Class1.cs",
+              "RelativeToolTip": "AcessData\\Middlewares\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:42:50.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ASP\\TaleOn\\AcessData\\Repos\\Class1.cs",
+              "RelativeDocumentMoniker": "AcessData\\Repos\\Class1.cs",
+              "ToolTip": "D:\\ASP\\TaleOn\\AcessData\\Repos\\Class1.cs",
+              "RelativeToolTip": "AcessData\\Repos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:42:42.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ASP\\TaleOn\\TaleOn\\appsettings.json",
               "RelativeDocumentMoniker": "TaleOn\\appsettings.json",
@@ -55,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\ASP\\TaleOn\\TaleOn\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "TaleOn\\ApplicationUser.cs",
@@ -67,15 +220,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ASP\\TaleOn\\TaleOn\\Program.cs",
               "RelativeDocumentMoniker": "TaleOn\\Program.cs",
               "ToolTip": "D:\\ASP\\TaleOn\\TaleOn\\Program.cs",
               "RelativeToolTip": "TaleOn\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAEwDEAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T06:50:28.295Z"
+              "WhenOpened": "2025-08-21T06:50:28.295Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

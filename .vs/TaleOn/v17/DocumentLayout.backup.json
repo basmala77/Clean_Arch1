@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,10 +39,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{7615f12e-922a-545a-b9a0-3305b93d08c0}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -67,8 +63,7 @@
               "RelativeToolTip": "TaleOn\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T06:52:14.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T06:52:14.968Z"
             },
             {
               "$type": "Document",
@@ -80,8 +75,11 @@
               "RelativeToolTip": "TaleOn\\Program.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAEwDEAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T06:50:28.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T06:50:28.295Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

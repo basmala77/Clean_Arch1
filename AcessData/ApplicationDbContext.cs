@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace TaleOn
+namespace AcessData
 {
     public class ApplicationDbContext : IdentityDbContext
     {
