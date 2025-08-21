@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP\\TaleOn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CB212-64F1-4C6B-873B-9A37567C4093}|TaleOn\\TaleOn.csproj|d:\\asp\\taleon\\taleon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D7CB212-64F1-4C6B-873B-9A37567C4093}|TaleOn\\TaleOn.csproj|solutionrelative:taleon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CB212-64F1-4C6B-873B-9A37567C4093}|TaleOn\\TaleOn.csproj|d:\\asp\\taleon\\taleon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7CB212-64F1-4C6B-873B-9A37567C4093}|TaleOn\\TaleOn.csproj|solutionrelative:taleon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CB212-64F1-4C6B-873B-9A37567C4093}|TaleOn\\TaleOn.csproj|d:\\asp\\taleon\\taleon\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7CB212-64F1-4C6B-873B-9A37567C4093}|TaleOn\\TaleOn.csproj|solutionrelative:taleon\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7615f12e-922a-545a-b9a0-3305b93d08c0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP\\TaleOn\\TaleOn\\appsettings.json",
+              "RelativeDocumentMoniker": "TaleOn\\appsettings.json",
+              "ToolTip": "D:\\ASP\\TaleOn\\TaleOn\\appsettings.json",
+              "RelativeToolTip": "TaleOn\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T06:54:18.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\ASP\\TaleOn\\TaleOn\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TaleOn\\ApplicationUser.cs",
+              "ToolTip": "D:\\ASP\\TaleOn\\TaleOn\\ApplicationUser.cs",
+              "RelativeToolTip": "TaleOn\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T06:52:14.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP\\TaleOn\\TaleOn\\Program.cs",
+              "RelativeDocumentMoniker": "TaleOn\\Program.cs",
+              "ToolTip": "D:\\ASP\\TaleOn\\TaleOn\\Program.cs",
+              "RelativeToolTip": "TaleOn\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAEwDEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T06:50:28.295Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

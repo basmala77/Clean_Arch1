@@ -1,0 +1,15 @@
+D:\ASP\TaleOn\TaleOn.Services\bin\Debug\net9.0\TaleOn.Services.deps.json
+D:\ASP\TaleOn\TaleOn.Services\bin\Debug\net9.0\TaleOn.Services.runtimeconfig.json
+D:\ASP\TaleOn\TaleOn.Services\bin\Debug\net9.0\TaleOn.Services.dll
+D:\ASP\TaleOn\TaleOn.Services\bin\Debug\net9.0\TaleOn.Services.pdb
+D:\ASP\TaleOn\TaleOn.Services\obj\Debug\net9.0\TaleOn.Services.csproj.AssemblyReference.cache
+D:\ASP\TaleOn\TaleOn.Services\obj\Debug\net9.0\TaleOn.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\TaleOn\TaleOn.Services\obj\Debug\net9.0\TaleOn.Services.AssemblyInfoInputs.cache
+D:\ASP\TaleOn\TaleOn.Services\obj\Debug\net9.0\TaleOn.Services.AssemblyInfo.cs
+D:\ASP\TaleOn\TaleOn.Services\obj\Debug\net9.0\TaleOn.Services.csproj.CoreCompileInputs.cache
+D:\ASP\TaleOn\TaleOn.Services\obj\Debug\net9.0\TaleOn.Services.sourcelink.json
+D:\ASP\TaleOn\TaleOn.Services\obj\Debug\net9.0\TaleOn.Services.dll
+D:\ASP\TaleOn\TaleOn.Services\obj\Debug\net9.0\refint\TaleOn.Services.dll
+D:\ASP\TaleOn\TaleOn.Services\obj\Debug\net9.0\TaleOn.Services.pdb
+D:\ASP\TaleOn\TaleOn.Services\obj\Debug\net9.0\TaleOn.Services.genruntimeconfig.cache
+D:\ASP\TaleOn\TaleOn.Services\obj\Debug\net9.0\ref\TaleOn.Services.dll
